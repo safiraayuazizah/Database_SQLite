@@ -1,4 +1,15 @@
 # sqlite
+# penambahan item "sayur sawi"
+![hasil](images/tambah.jpg)
+# hasil penambhan "sayur sawi"
+![hasil](images/hasil.jpg)
+# edit harga "sayur sawi"
+![hasil](images/edit.jpg)
+# hasil edit harga "sayur sawi"
+![hasil](images/hasil2.jpg)
+# hapus item "sayur sawi"
+![hasil](images/hapus.jpg)
+
 
 A new Flutter project.
 
